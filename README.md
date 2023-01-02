@@ -45,9 +45,6 @@
 - With the Filter (item 3) we can include conditional commands in SQL to direct our searches. Commands like “AND”, “OR”, “=”, “!=”, “<”, “>” and others.
 - With the Download (item 7) we can run a search and obtain the entire result in an excel spreadsheet (xlsx) with a click. This command will only run when there is a search performed, if there is no search data before generating the file it will condition an error.
 
-**Some screenshots of systems running searches**
-![image](https://user-images.githubusercontent.com/91624923/210128051-942ca1fe-e225-4190-9846-73e05ae27b44.png)
-
 ### Screen 3
 ![image](https://user-images.githubusercontent.com/91624923/210127657-57a3ad5e-d711-4f63-a457-198bf284b267.png)
 **Subtitle**
