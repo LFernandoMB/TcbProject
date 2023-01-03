@@ -1,4 +1,6 @@
 # Sistema de Análise TCB
+## ⌛ Status
+    ✅ Finished 🎉
 ## 🎆 System working
 ![gif_Tcb](https://user-images.githubusercontent.com/91624923/210192009-21030671-486b-4751-9973-fb4ff7828746.gif)
 
